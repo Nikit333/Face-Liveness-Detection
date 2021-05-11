@@ -1,5 +1,7 @@
 # Face-Liveness-Detection
 
+- 2020.5.11 Model Updated.
+
 http://54.253.233.223:8889/face/liveness/score
 
 ![image](https://user-images.githubusercontent.com/80960135/116544496-cd669880-a921-11eb-83e1-67f714a8e545.png)
@@ -10,4 +12,4 @@ Please have a test on my website (https://turingtech.vip)
 
 Please contact me if you have any problem. (skype- live:turing311)
 
-2021.05.10 updated
+2021.05.11 updated
