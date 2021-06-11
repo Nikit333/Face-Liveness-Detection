@@ -12,4 +12,4 @@ Please give a shot on our website (https://turingtech.vip)
 
 Please contact me if you have any problem. (skype- live:turing311)
 
-2021.06.04 updated
+2021.06.12 updated
