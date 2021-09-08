@@ -10,4 +10,4 @@ Please give a shot on our website (https://turingtech.vip)
 
 Please contact me if you have any problem. (skype- live:turing311)
 
-2021.06.14 updated
+2021.09.08 updated
